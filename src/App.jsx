@@ -1,7 +1,7 @@
-import AnimeImageSearch from './components/AnimeImageSearch.jsx'
+import { memo } from 'react';
+import AnimeImageSearch from './components/AnimeImageSearch.jsx';
 
-function App() {
-  return <AnimeImageSearch />
-}
+const App = memo(() => <AnimeImageSearch />);
+App.displayName = 'App';
 
-export default App
+export default App;

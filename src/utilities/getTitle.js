@@ -1,4 +1,5 @@
 function getAnimeTitle(filename) {
+    // console.log(filename)
     const withoutFirstBracket = filename.replace(/^\[[^\]]*\]\s*/, '');
     const pattern = /\b(?!\([^()]*\d[^()]*\))([A-Za-z]+(?:\d+)?|[A-Za-z]\d+)\b/g;
     const matches = withoutFirstBracket.match(pattern);

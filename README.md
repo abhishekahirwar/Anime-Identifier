@@ -1,6 +1,6 @@
 # Anime Identifier
 
-![AnimeIdentifier](https://link_to_your_project_screenshot.png) <!-- Add a screenshot of your project here -->
+![AnimeIdentifier](https://res.cloudinary.com/dgd27fi7o/image/upload/v1730199195/Anime_Identifier/t1tmqaiwaow4zzgq3did.png)
 
 ## Overview
 
@@ -38,7 +38,7 @@ Anime Identifier is a React-based web application that allows users to upload an
 
 To get started with the project, follow these steps:
 
-1. **Clone the repository**: `git clone https://github.com/abhishekahirwar/anime-identifier.git`
+1. **Clone the repository**: `git clone https://github.com/abhishekahirwar/Anime-Identifier.git`
 2. **Change into the project directory**: `cd AnimeIdentifier`
 3. **Install dependencies**: `npm install`
 4. **Start the development server**: `npm run dev`
@@ -53,7 +53,7 @@ To get started with the project, follow these steps:
 
 [GitHub](https://github.com/abhishekahirwar) **Abhishek Ahirwar**
 
-<!-- ## Additional Resources -->
+## Additional Resources
 
-<!-- [Anime Identifier Live Deployed]() **Anime Identifier** -->
+[Anime Identifier Live Deployed](https://anime-identifier-mu.vercel.app/) **Anime Identifier**
 
